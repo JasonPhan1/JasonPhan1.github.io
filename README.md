@@ -1,6 +1,6 @@
 # Junior Computer Science Student
 
-https://imgur.com/a/h4qKivK
+![headshot](https://github.com/JasonPhan1/JasonPhan1.github.io/assets/98352769/797254bc-f5b6-4611-832a-0841b6474f46)
 
 ### Biography
 I'm Jason Phan, a motivated Junior in College from Kansas City, Missouri, currently pursuing a Bachelor of Science in Computer Science. I've always had a strong interest in technology, and my goal is to specialize in artificial intelligence as a software engineer. I'm dedicated to mastering the necessary skills and knowledge to excel in my field.
