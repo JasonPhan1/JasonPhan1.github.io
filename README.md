@@ -1,11 +1,11 @@
 # Junior Computer Science Student
 
 ### Biography
-Jason Phan is a motivated Junior in College from Kansas City, Missouri, currently pursuing a Bachelor of Science in Computer Science. With a strong interest in technology and a goal to specialize in artificial intelligence as a software engineer, Jason is dedicated to mastering the necessary skills and knowledge to excel in his field.
+I'm Jason Phan, a motivated Junior in College from Kansas City, Missouri, currently pursuing a Bachelor of Science in Computer Science. I've always had a strong interest in technology, and my goal is to specialize in artificial intelligence as a software engineer. I'm dedicated to mastering the necessary skills and knowledge to excel in my field.
 
-Beyond academics, Jason enjoys exploring new coding projects and staying updated on the latest advancements in technology. His passion for innovation and problem-solving drives his commitment to continuous learning and growth.
+Beyond academics, I enjoy exploring new coding projects and staying updated on the latest advancements in technology. My passion for innovation and problem-solving drives my commitment to continuous learning and growth.
 
-With a focus on leveraging his education and experiences to contribute meaningfully to the world of software engineering, Jason is poised to make a significant impact in the field of artificial intelligence.
+With a focus on leveraging my education and experiences to contribute meaningfully to the world of software engineering, I believe I'm poised to make a significant impact in the field of artificial intelligence.
 
 ### Resume
 ![resume](https://github.com/JasonPhan1/JasonPhan1.github.io/assets/98352769/d3869ec9-1aba-40db-a3d2-338f6a33e816)
