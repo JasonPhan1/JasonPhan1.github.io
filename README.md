@@ -29,15 +29,15 @@ Courses Taken:
 - Python
 
 ### Projects
-- Project: Media Library Creator
-•	Coded a C++ program that reads from a data file which included various types of media like songs, movies and books
-•	Uses inheritance and polymorphism concepts through base and derived classes to create an object-oriented program
-•	Utilized data structures, exception handling, and CSV file handling 
+Project: Media Library Creator
+* Coded a C++ program that reads from a data file which included various types of media like songs, movies and books
+* Uses inheritance and polymorphism concepts through base and derived classes to create an object-oriented program
+* Utilized data structures, exception handling, and CSV file handling 
 
-- Project: List (STL) Creator
-•	Coded a small C++ program that reads from an input file and outputs into an output file
-•	Utilized the standard template library, classes, exception handling and works with arrays and vectors
-•	It removes all the vowels and prints in a specific kind of way
+Project: List (STL) Creator
+* Coded a small C++ program that reads from an input file and outputs into an output file
+* Utilized the standard template library, classes, exception handling and works with arrays and vectors
+* It removes all the vowels and prints in a specific kind of way
 
 - Project: Route-Finding Program
 * Developed a Python program for route-finding utilizing various search algorithms.
@@ -54,5 +54,5 @@ N/A
 N/A
 
 ### Contact Information
-E-Mail Address: jason.phan2004@gmail.com
-Number: (816)-739-2793
+- E-Mail Address: jason.phan2004@gmail.com
+- Number: (816)-739-2793
