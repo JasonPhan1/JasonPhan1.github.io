@@ -23,3 +23,36 @@ Courses Taken:
 - Data Structures (CS 303)
 - Intro Cmptr Architecture & Org (CS 281R)
 - Linear Algebra I (MATH 300)
+
+### Skills
+- C++
+- Python
+
+### Projects
+- Project: Media Library Creator
+•	Coded a C++ program that reads from a data file which included various types of media like songs, movies and books
+•	Uses inheritance and polymorphism concepts through base and derived classes to create an object-oriented program
+•	Utilized data structures, exception handling, and CSV file handling 
+
+- Project: List (STL) Creator
+•	Coded a small C++ program that reads from an input file and outputs into an output file
+•	Utilized the standard template library, classes, exception handling and works with arrays and vectors
+•	It removes all the vowels and prints in a specific kind of way
+
+- Project: Route-Finding Program
+* Developed a Python program for route-finding utilizing various search algorithms.
+* Implemented user interface allowing input of starting and ending towns, selection of search method, and display of found route.
+* Utilized provided data files containing town information and adjacency lists to calculate routes.
+* Incorporated time measurement feature to evaluate performance of each search method.
+* Coded in Python, demonstrating proficiency in algorithm implementation and data processing.
+
+
+### Research
+N/A
+
+### Work Experience
+N/A
+
+### Contact Information
+E-Mail Address: jason.phan2004@gmail.com
+Number: (816)-739-2793
