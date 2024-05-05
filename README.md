@@ -39,7 +39,8 @@ Project: List (STL) Creator
 * Utilized the standard template library, classes, exception handling and works with arrays and vectors
 * It removes all the vowels and prints in a specific kind of way
 
-- Project: Route-Finding Program
+Project: Route-Finding Program
+
 * Developed a Python program for route-finding utilizing various search algorithms.
 * Implemented user interface allowing input of starting and ending towns, selection of search method, and display of found route.
 * Utilized provided data files containing town information and adjacency lists to calculate routes.
